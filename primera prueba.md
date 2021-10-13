@@ -75,9 +75,9 @@ Y la resistencia? Circuito 1, 1 Ohm Circuito 2 440 Ohms
 
 ![](https://github.com/DavidMenCam/Arduino/blob/main/Captura%20de%20pantalla%20de%202021-10-13%2012-49-56.png)
 
-[-Morse_2](https://github.com/DavidMenCam/Arduino/tree/main/morse_2)
+[-Morse_2](https://github.com/DavidMenCam/Arduino/blob/main/morse_2/morse_2.ino)
 
-[-Morse_3](https://github.com/DavidMenCam/Arduino/tree/main/morse_3)
+[-Morse_3](https://github.com/DavidMenCam/Arduino/blob/main/morse_3/morse_3.ino)
 
 ### Alfabeto en codigo morse 
 
