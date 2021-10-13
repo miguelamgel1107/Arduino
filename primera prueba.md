@@ -33,7 +33,7 @@ Ete pese a funcionar y dar luz genera dos problemas:
 
 Si desconectamos una parte no funciona
 
-## Circuito en paralelo
+### Circuito en paralelo
 
 Da igual si una parte se deconecta
 
@@ -51,7 +51,7 @@ Voltaje = Intesidad x Voltaje
 
 Resistencia = Voltaje ÷ Intensidad
 
-## Por qué necesitamos resistencias con los LEDs?
+### Por qué necesitamos resistencias con los LEDs?
 
 Tenemos 2 circuitos
 
