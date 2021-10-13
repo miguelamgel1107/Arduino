@@ -71,13 +71,13 @@ Y la resistencia? Circuito 1, 1 Ohm Circuito 2 440 Ohms
 
 ## Morse y las funciones
 
--Morse_1
+-Aqui podemos ver lo que hicimos en la prueba de Morse_1
 
 ![](https://github.com/DavidMenCam/Arduino/blob/main/Captura%20de%20pantalla%20de%202021-10-13%2012-49-56.png)
 
-[-Morse_2](https://github.com/DavidMenCam/Arduino/blob/main/morse_2/morse_2.ino)
+-Aqui esta el enlace a lo que hicimos en la prueba de [Morse_2](https://github.com/DavidMenCam/Arduino/blob/main/morse_2/morse_2.ino)
 
-[-Morse_3](https://github.com/DavidMenCam/Arduino/blob/main/morse_3/morse_3.ino)
+-Aqui esta el enlace a lo que hicimos en la prueba de [Morse_3](https://github.com/DavidMenCam/Arduino/blob/main/morse_3/morse_3.ino)
 
 ### Alfabeto en codigo morse 
 
