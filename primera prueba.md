@@ -69,6 +69,13 @@ Y la resistencia? Circuito 1, 1 Ohm Circuito 2 440 Ohms
 
 5V ÷ 0 Ohm = ∞ A (Cortocircuito) ---> Evitar
 
-## Morse1
+## Morse y las funciones
+
+-Morse_1
 
 ![](https://github.com/DavidMenCam/Arduino/blob/main/Captura%20de%20pantalla%20de%202021-10-13%2012-49-56.png)
+
+[-Morse_2](https://github.com/DavidMenCam/Arduino/tree/main/morse_2)
+
+[-Morse_3](https://github.com/DavidMenCam/Arduino/tree/main/morse_3)
+
