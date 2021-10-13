@@ -71,7 +71,9 @@ Y la resistencia? Circuito 1, 1 Ohm Circuito 2 440 Ohms
 
 ## Morse y las funciones
 
--Aqui podemos ver lo que hicimos en la prueba de Morse_1
+-Aqui podemos ver lo que hicimos en la prueba de Morse_1.
+
+
 
 ![](https://github.com/DavidMenCam/Arduino/blob/main/Captura%20de%20pantalla%20de%202021-10-13%2012-49-56.png)
 
