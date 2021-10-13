@@ -23,7 +23,7 @@ El protoboard es el lugar principal en el que vais a construir circuitos. El que
 
 5v---LED---GND
 
-Ete pese a funcionar y dar luz genera dos problemas:
+Este pese a funcionar y dar luz genera dos problemas:
 
 -1:Se calienta y es incómodo de tocar.
 
