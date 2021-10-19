@@ -118,9 +118,9 @@ cuatro sentencias(o lineas)
 
 }
 
--DifitalWrite(LED_Builtin_High)
+-DigitalWrite(LED_BUILTIN_HIGH)
 -delay(1000)
--DifitalWrite(LED_Builtin_Low)
+-DigitalWrite(LED_BUILTIN_LOW)
 -delay(1000)
 
 delay()nos piede un numero, ese numero seran los milisegundos de espera
