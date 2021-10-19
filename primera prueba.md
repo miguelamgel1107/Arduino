@@ -1,9 +1,5 @@
 # Primera Prueba
-
-El programa ARDUINO IDE dió error: " can't open " " permission denied ".
-
-El programa lanzó una excepción y detuvo el programa.
-Esto por un tema de permisos de usuario.
+Intentamos programar el programa de ejemplo blink.ino pero no habia permiso para programar por el USB: ARV dude: Lanzó una excepcion y detuvo el programa, lo que ocurrió fue que el programa que habla con el USB no tenia permisos. 
 
 ![](https://github.com/Tabrih/Arduino/blob/main/Error%20arduino%201.png)
 
@@ -72,8 +68,6 @@ Y la resistencia? Circuito 1, 1 Ohm Circuito 2 440 Ohms
 ## Morse y las funciones
 
 -Aqui podemos ver lo que hicimos en la prueba de Morse_1.
-
-
 
 ![](https://github.com/DavidMenCam/Arduino/blob/main/Captura%20de%20pantalla%20de%202021-10-13%2012-49-56.png)
 
