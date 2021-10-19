@@ -1,5 +1,5 @@
 # Introduccion 
-Me llamo Miguel Angel y en este repositorio esta todo lo que trabajemos copn aurduino.
+Me llamo Miguel Angel y en este repositorio esta todo lo que trabajemos con aurduino.
 
 ### Estos son mis enlaces
 
