@@ -109,3 +109,22 @@ Hicimos en el código para cambiar el tiempo de brillo. Para eso hicimos cambios
 -Pulsamos el botón subir.
 
 ## Que hace blink.ino
+
+void loog(){
+
+cuatro sentencias(o lineas)
+
+}
+
+-DifitalWrite(LED_Builtin_High)
+-delay(1000)
+-DifitalWrite(LED_Builtin_Low)
+-delay(1000)
+
+delay()nos piede un numero, ese numero seran los milisegundos de espera
+
+1000=1s
+
+60 000=1 minuto
+
+500= medio segundo
