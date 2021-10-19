@@ -7,9 +7,6 @@ Intentamos programar el programa de ejemplo blink.ino pero no habia permiso para
 
 ### Protoboard
 El protoboard es el lugar principal en el que vais a construir circuitos. El que viene en vuestro kit es de tipo sin soldaduras, llamado asi porque no tenéis que soldar nada, algo así  como un kit de LEGO en forma electónico.
-![](https://github.com/miguelamgel1107/Arduino/blob/main/arduino.png)
-![](https://github.com/miguelamgel1107/Arduino/blob/main/unknown.png)
-![](https://github.com/miguelamgel1107/Arduino/blob/main/unknown1)
 
 # Circuitos Eléctricos
 
@@ -25,13 +22,35 @@ Este pese a funcionar y dar luz genera dos problemas:
 
 -2:Puede fundir el LED.
 
+### Circuito con boton
+![](https://github.com/miguelamgel1107/Arduino/blob/main/arduino.png)
+
 ### Circuito en serie
 
 Si desconectamos una parte no funciona
 
+![](https://raw.githubusercontent.com/Tabrih/Arduino/main/IMG_20211006_124850.jpg)
+
+Fuente:[Christian](https://github.com/Tabrih)
+
 ### Circuito en paralelo
 
-Da igual si una parte se deconecta
+Da igual si una parte se desconecta
+
+![](https://raw.githubusercontent.com/Tabrih/Arduino/main/IMG_20211006_123213.jpg)
+
+Fuente:[Christian](https://github.com/Tabrih)
+
+### Circuito en serie 2
+
+![](https://github.com/miguelamgel1107/Arduino/blob/main/unknown.png)
+![](https://github.com/miguelamgel1107/Arduino/blob/main/unknown1)
+
+### Circuito en paralelo 2
+
+![](https://github.com/Tabrih/Arduino/blob/main/IMG_20211006_135736.jpg)
+![](https://github.com/Tabrih/Arduino/blob/main/IMG_20211006_135739.jpg)
+![](https://github.com/Tabrih/Arduino/blob/main/IMG_20211006_135745.jpg)
 
 ## Apuntes Sobre Electricidad
 
@@ -78,3 +97,11 @@ Y la resistencia? Circuito 1, 1 Ohm Circuito 2 440 Ohms
 ### Alfabeto en codigo morse 
 
 ![](https://github.com/miguelamgel1107/Arduino/blob/main/img_como_es_el_alfabeto_morse_15589_600.jpg)
+
+## Como Programar Arduino
+
+-Primero tenemos arduino ide instalado.
+-Tenemos un usuario con permisos.
+-Conectamos el arduino por USB.
+-Cargamos el programa blink.ino. Archivo-ejemplos-1.basics-blink
+-Pulsamos el botón subir.
