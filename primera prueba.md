@@ -88,6 +88,8 @@ Y la resistencia? Circuito 1, 1 Ohm Circuito 2 440 Ohms
 
 -Aqui podemos ver lo que hicimos en la prueba de Morse_1.
 
+Hicimos en el código para cambiar el tiempo de brillo. Para eso hicimos cambios en las lineas de delay(_);
+
 ![](https://github.com/DavidMenCam/Arduino/blob/main/Captura%20de%20pantalla%20de%202021-10-13%2012-49-56.png)
 
 -Aqui esta el enlace a lo que hicimos en la prueba de [Morse_2](https://github.com/DavidMenCam/Arduino/blob/main/morse_2/morse_2.ino)
@@ -105,3 +107,5 @@ Y la resistencia? Circuito 1, 1 Ohm Circuito 2 440 Ohms
 -Conectamos el arduino por USB.
 -Cargamos el programa blink.ino. Archivo-ejemplos-1.basics-blink
 -Pulsamos el botón subir.
+
+## Que hace blink.ino
