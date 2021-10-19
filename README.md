@@ -1,3 +1,10 @@
+# Introduccion 
+Me llamo Miguel Angel y en este repositorio esta todo lo que trabajemos copn aurduino.
+
+### Estos son mis enlaces
+
+-[Primer trimestre](https://github.com/miguelamgel1107/1er-trimestre-)
+
 # Arduino
 
 ARDUINO IDE ( Entorno de desarrollo )
