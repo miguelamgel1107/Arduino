@@ -3,6 +3,8 @@ Intentamos programar el programa de ejemplo blink.ino pero no habia permiso para
 
 ![](https://github.com/Tabrih/Arduino/blob/main/Error%20arduino%201.png)
 
+Fuente:[Christian](https://github.com/Tabrih)
+
 ## Revisar Componentes Electricos
 
 ### Protoboard
@@ -41,12 +43,12 @@ Da igual si una parte se desconecta
 
 Fuente:[Christian](https://github.com/Tabrih)
 
-### Circuito en serie 2
+### Circuito con botones en serie 
 
 ![](https://github.com/miguelamgel1107/Arduino/blob/main/unknown.png)
 ![](https://github.com/miguelamgel1107/Arduino/blob/main/unknown1)
 
-### Circuito en paralelo 2
+### Circuito con botones en paralelo 
 
 ![](https://github.com/Tabrih/Arduino/blob/main/IMG_20211006_135736.jpg)
 ![](https://github.com/Tabrih/Arduino/blob/main/IMG_20211006_135739.jpg)
@@ -110,7 +112,7 @@ Hicimos en el código para cambiar el tiempo de brillo. Para eso hicimos cambios
 
 ## Que hace blink.ino
 
-void loog(){
+void loog() {
 
 cuatro sentencias(o lineas)
 
