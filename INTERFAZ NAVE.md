@@ -1,1 +1,5 @@
+# Interfaz De Nave Espacial
 
+El LED mas cercano al boton permanecerá encendido hasta que pulse el botón. Cuando Arduino reciba la señal del botón pulsado, la luz verde se apaga y se encienden otras dos luces que comienzan a parpadear.
+Para lograr esto lo primero que tendremos que hacer es conectar en tu protoboard a las conexiones de 5V y masa de Arduino, igual como hemos hecho en pruebas anteriores. Colocar los dos LEDs sobre el protoboard. Conectar el cátodo (patilla corta) de cada LED masa a través de una resistenciade 220 ohmios. Conectar el ánodo (patilla larga) del LED verde al pin 3 de Arduino. Conectar los ánodos de los LEDs rojos a los pins 4 y 5 respectivamente.
+Luego colocar el boton sobre el protoboard, como hemos hecho en pruebas anteriores. Conectar un extremo a la alimentación y el otro terminal del pulsador al 2 de Arduino. También necesita añadir una resistencia de 10K ohmios desde masa al pin del interruptor que va conectado a Arduino. Esta resistencia de puesta a cero conecta el pin a masa cuando el pulsador está abierto, así que Arduino lee LOW cuando no hay tensión en ese pin del pulsador.
