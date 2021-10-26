@@ -34,8 +34,8 @@ sensor.
 [Codigo original](https://github.com/DavidMenCam/Arduino/blob/main/codigo_love_o_meter/codigo_love_o_meter.ino)
 
 
-## variaciones 
+## Variaciones 
 
 En esta variacion lo que hicimos fue quitar el sensor de temperatura y cambiarlo por un potenciometro haciendo que los LEDs se encendieran girando el potenciometro , aparte cambiamos en el codigo la temperatura por otro digitos del 0 al 1023
 
-[codigo de nustra variacion](https://github.com/DavidMenCam/Arduino/tree/main/variacion_02_love_meter)
+[Codigo de nustra variacion](https://github.com/DavidMenCam/Arduino/tree/main/variacion_02_love_meter)
