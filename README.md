@@ -3,9 +3,13 @@ Me llamo Miguel Angel y en este repositorio esta todo lo que trabajemos con aurd
 
 ### Estos son mis enlaces
 
--[Primer trimestre](https://github.com/miguelamgel1107/1er-trimestre-)
+* [Primer Trimestre](https://github.com/miguelamgel1107/1er-trimestre-)
 
--[Primera Prueba](https://github.com/miguelamgel1107/Arduino/blob/main/primera%20prueba.md)
+* [Primera Prueba](https://github.com/miguelamgel1107/Arduino/blob/main/primera%20prueba.md)
+
+* [Interfaz Nave](https://github.com/miguelamgel1107/Arduino/blob/main/interfaz%20nave.md)
+
+* [Medidor De Amor](https://github.com/miguelamgel1107/Arduino/blob/main/Medidor%20de%20amor.md)
 
 # Arduino
 
