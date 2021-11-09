@@ -105,3 +105,4 @@ digitalWrite(4,HIGH),
  
  version 7.2 hemos cambiado los leds por reguladores aun que la mecanica funciona el led verde no sufre efecto y ni se ve el color lo arreglaremos junto al david el martes 
 
+![](https://github.com/miguelamgel1107/Arduino/blob/main/IMG20211103140539.jpg)
