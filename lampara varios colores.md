@@ -61,7 +61,7 @@ Aqui una imagen para mostrar como se monta el circuito.
 
 ![](https://github.com/miguelamgel1107/Arduino/blob/main/IMG20211103140539.jpg)
 
-* variable 2
+* Variable 2
 
 Luego realizamos esta variable, la cual consistía en dos grandes cambios en el código y en protoboard:
 
