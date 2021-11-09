@@ -48,10 +48,12 @@ Otros tipos :
 ## Lampara de colores
 Este proyecto lo realicé junto a David y Christian.
 
-Para este proyecto necesitamos 3 fototransistores que detectan la luz, cada fototransistor sela un color vamos a tener uno rojo otro azul y otro verde.
+Para este proyecto necesitamos 3 fototransistores que detectan la luz, cada fototransistor sera un color, vamos a tener uno rojo otro azul y otro verde.
 Dependiendo de la cantidad de luz que detecte el fototransistor sera la potencia que brille ese color.
 
 [Aqui esta el codigo](https://github.com/DavidMenCam/Arduino/blob/main/arduino_ver_7.ino)
+
+* Variable 1
 
 Luego realizamos una varienate usando el mismo codigo petro cambiando los fototransistores por unos potenciadores para asi poder regular mejor la potencia que queremos que brille cada color.
 
@@ -59,3 +61,14 @@ Aqui una imagen para mostrar como se monta el circuito.
 
 ![](https://github.com/miguelamgel1107/Arduino/blob/main/IMG20211103140539.jpg)
 
+* variable 2
+
+Luego realizamos esta variable, la cual consistía en dos grandes cambios en el código y en protoboard:
+
+En el código, el greenValue probamos a ponerle un valor de 10, así igual en blue y redValue.
+
+En la protoboard, cambiamos los potenciadores por botones y, al mantenerlos pulsados, los LEDs se iluminan lentamente y al llegar a un punto determinado de brillo se apagan automáticamente.
+
+[Este es el codigo de esta variante](https://github.com/DavidMenCam/Arduino/blob/main/lampara_colores_variacion1/lampara_colores_variacion1.ino)
+
+![](https://github.com/miguelamgel1107/Arduino/blob/main/IMG20211109134734.jpg)
