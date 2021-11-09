@@ -97,12 +97,4 @@ digitalWrite(4,HIGH),
  
  [version 6](https://github.com/DavidMenCam/Arduino/tree/main/arduino_ver_6)
  
- * Version 7
  
-  Lo que hicimos en el ultimo fue una variante de colores en cada led hcaiendo que cada uno tuviera un color diferente
- 
- [version 7](https://github.com/DavidMenCam/Arduino/blob/main/arduino_ver_7.ino)
- 
- version 7.2 hemos cambiado los leds por reguladores aun que la mecanica funciona el led verde no sufre efecto y ni se ve el color lo arreglaremos junto al david el martes 
-
-![](https://github.com/miguelamgel1107/Arduino/blob/main/IMG20211103140539.jpg)
