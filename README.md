@@ -11,6 +11,8 @@ Me llamo Miguel Angel y en este repositorio esta todo lo que trabajemos con aurd
 
 * [Medidor De Amor](https://github.com/miguelamgel1107/Arduino/blob/main/Medidor%20de%20amor.md)
 
+* [Operadores](https://github.com/miguelamgel1107/Arduino/blob/main/operadores.md)
+
 # Arduino
 
 ARDUINO IDE ( Entorno de desarrollo )
