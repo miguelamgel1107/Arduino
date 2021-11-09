@@ -45,3 +45,17 @@ Otros tipos :
 - char -> un único caracter
 - float -> números decimales
 
+## Lampara de colores
+Este proyecto lo realicé junto a David y Christian.
+
+Para este proyecto necesitamos 3 fototransistores que detectan la luz, cada fototransistor sela un color vamos a tener uno rojo otro azul y otro verde.
+Dependiendo de la cantidad de luz que detecte el fototransistor sera la potencia que brille ese color.
+
+[Aqui esta el codigo](https://github.com/DavidMenCam/Arduino/blob/main/arduino_ver_7.ino)
+
+Luego realizamos una varienate usando el mismo codigo petro cambiando los fototransistores por unos potenciadores para asi poder regular mejor la potencia que queremos que brille cada color.
+
+Aqui una imagen para mostrar como se monta el circuito.
+
+![](https://github.com/miguelamgel1107/Arduino/blob/main/IMG20211103140539.jpg)
+
