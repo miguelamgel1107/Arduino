@@ -87,3 +87,7 @@ void checkButton(){
   isTheButtonBeingPressed = false;
   }
 }
+```
+Aqui podemos ver como seria la instalacion del circuito.
+
+![](https://github.com/miguelamgel1107/Arduino/blob/main/WhatsApp%20Image%202021-11-30%20at%201.55.18%20PM.jpeg)
