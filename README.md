@@ -19,6 +19,8 @@ Me llamo Miguel Angel y en este repositorio esta todo lo que trabajemos con ardu
 
 * [Medidor De Estado De Animo ](https://github.com/miguelamgel1107/Arduino/blob/main/medidor%20de%20estado%20de%20animo.md)
 
+* [Snippet](https://github.com/miguelamgel1107/Arduino/blob/main/snippet.md)
+
 # Arduino
 
 ARDUINO IDE ( Entorno de desarrollo )
