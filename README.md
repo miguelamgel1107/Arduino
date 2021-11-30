@@ -15,6 +15,8 @@ Me llamo Miguel Angel y en este repositorio esta todo lo que trabajemos con aurd
 
 * [Lampara de varios colores](https://github.com/miguelamgel1107/Arduino/blob/main/lampara%20varios%20colores.md)
 
+* [circuitos Eléctricos](https://github.com/miguelamgel1107/Arduino/blob/main/circuitosel%C3%A9ctricos.md)
+
 # Arduino
 
 ARDUINO IDE ( Entorno de desarrollo )
