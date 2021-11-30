@@ -8,8 +8,7 @@ Tuvimos algunos problemas pero despues del codigo  empezamos cambieando el codig
 
 Cambiamos el codigo original combinandolo con el codigo de [Chechiliaa](https://github.com/chechiliaa) de [Snippet del botón malote](https://github.com/chechiliaa/arduino/blob/main/snippet_kill_switch.cpp)
 En el hardware agregamos un boton y lo conectamos al pin 2 y al GND.
-En el codigo tuvimos un problema que cuando apagamos el boton el led se quedaba encendido asi que tuvimos que agragar un void con la funcion de apagar el boton y agregarlo al loop
-asi arreglamos el problema.
+En el codigo tuvimos un problema que cuando apagamos el boton el led se quedaba encendido asi que tuvimos que agregar un void con la funcion de apagar el boton y agregarlo al loop asi arreglamos el problema.
 lo que hace el codigo es que el circuito funciona igual pero con el cambio que si el boton esta encendido el circuito esta encendido y si esta apagado el circuito se apaga.
 
 aqui esta el codigo modificado.
