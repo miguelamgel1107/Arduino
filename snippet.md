@@ -2,7 +2,7 @@
 
 Este proyecto lo hice junto a [David](https://github.com/DavidMenCam)
 
-Comenzamos con el mismo concepto y codigo que el de la lampara de colores con el mimso codigo, todo haciendo que la luz cambiara de color con los potenciadores 
+Comenzamos con el mismo concepto y codigo que el de la lampara de colores con el mimso codigo, todo haciendo que la luz cambiara de color con los potenciadores.
 
 Tuvimos algunos problemas pero despues del codigo  empezamos cambieando el codigo actual.
 
