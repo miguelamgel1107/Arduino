@@ -2,16 +2,18 @@
 
 Este proyecto lo hice junto a [David](https://github.com/DavidMenCam)
 
-Comenzamos con el mismo concepto y codigo que el de la lampara de colores Con el mimso codigo  todo haciendo que la luz cambiara de color con los potenciadores 
+Comenzamos con el mismo concepto y codigo que el de la lampara de colores con el mimso codigo, todo haciendo que la luz cambiara de color con los potenciadores 
 
-Tuvimos algunos problemas pero despues del codigo  empezamos cambieando el codigo actual .
+Tuvimos algunos problemas pero despues del codigo  empezamos cambieando el codigo actual.
 
 Cambiamos el codigo original combinandolo con el codigo de [Chechiliaa](https://github.com/chechiliaa) de [Snippet del botón malote](https://github.com/chechiliaa/arduino/blob/main/snippet_kill_switch.cpp)
 En el hardware agregamos un boton y lo conectamos al pin 2 y al GND.
+
 En el codigo tuvimos un problema que cuando apagamos el boton el led se quedaba encendido asi que tuvimos que agregar un void con la funcion de apagar el boton y agregarlo al loop asi arreglamos el problema.
+
 lo que hace el codigo es que el circuito funciona igual pero con el cambio que si el boton esta encendido el circuito esta encendido y si esta apagado el circuito se apaga.
 
-aqui esta el codigo modificado.
+Aqui esta el codigo modificado.
 
 ```const int greenLEDPin = 9;
 const int redLEDPin = 11;
