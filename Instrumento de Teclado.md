@@ -7,6 +7,9 @@ Hoy, junto a [Christian](https://github.com/Tabrih), he realizado el proyecto Ar
 
 El proyecto consta de simular una especie de piano en la protoboard de Arduino, pero en este caso los botones harán de teclas. Pero solo con estos no podríamos hacer nada, necesitaremos el código Arduino del mismo para poderlo hacer funcionar. Con ambos correctos y funcionando podríamos hacer uso de él ya, e incluso ir probando variaciones de las frecuencias de las notas para hacer ritmos distintos.
 
+Probamos a hacer una variación con 6 botones en vez de 4, y nos dimos cuenta que, al probar distintas frecuencias de notas, las frecuencias más bajas prácticamente no se escuchaban. Mejor dicho, las frecuencias músicales se dividen por octavas, exactamente 8, que se miden en Hz. Estás van desde los 16,3516 Hz a 7902,14 Hz, divididas entre las octavas que hemos comentado antes. En nuestro caso hemos escogido la mayoría de la octava 4, que van desde 261,626 Hz hasta 493,893 y se suelen escuchar bien.
+
+
 ## Código
 
 Código Original:
@@ -76,6 +79,7 @@ else{
 
 ```
 
+## Imágenes y vídeos
 
 ![](https://github.com/Tabrih/Arduino/blob/main/Archivos/IMG_20211214_105502.jpg)
 
