@@ -81,7 +81,7 @@ else{
 
 ## Imágenes y vídeos
 
-Instrumento de Teclado original
+### Instrumento de Teclado original
 
 ![](https://github.com/Tabrih/Arduino/blob/main/Archivos/IMG_20211214_105502.jpg)
 
@@ -89,7 +89,7 @@ Instrumento de Teclado original
 
 
 
-Variación 1 del Instrumento de Teclado
+### Variación 1 del Instrumento de Teclado
 
 ![](https://github.com/miguelamgel1107/Arduino/blob/main/Archivos/IMG_20211214_121155.jpg)
 
