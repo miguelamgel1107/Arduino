@@ -5,6 +5,8 @@ Me llamo Miguel Angel y en este repositorio esta todo lo que trabajemos con ardu
 
 * [Primer Trimestre](https://github.com/miguelamgel1107/1er-trimestre-)
 
+* [Clase 3D](https://github.com/miguelamgel1107/Clase-3D)
+
 * [Primera Prueba](https://github.com/miguelamgel1107/Arduino/blob/main/primera%20prueba.md)
 
 * [Interfaz Nave](https://github.com/miguelamgel1107/Arduino/blob/main/interfaz%20nave.md)
