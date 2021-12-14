@@ -81,10 +81,15 @@ else{
 
 ## Imágenes y vídeos
 
+Instrumento de Teclado original
+
 ![](https://github.com/Tabrih/Arduino/blob/main/Archivos/IMG_20211214_105502.jpg)
 
 [Vídeo del Instrumento de Teclado](https://raw.githubusercontent.com/Tabrih/Arduino/main/Archivos/VID_20211214_105519.mp4)
 
+
+
+Variación 1 del Instrumento de Teclado
 
 ![](https://github.com/miguelamgel1107/Arduino/blob/main/Archivos/IMG_20211214_121155.jpg)
 
