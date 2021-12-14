@@ -1,5 +1,5 @@
 
-
+Original
 
 ```C++
 
@@ -69,7 +69,7 @@ else{
 
 
 
-
+Variante 1
 
 
 ```C++
