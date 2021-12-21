@@ -106,7 +106,7 @@ Este seria el numeor de cada nota
 16 = Sol sostenido 
 ```
 
-En en el caso de 25 de dicimbre se unsa el sol sostenido la cual en nuestras notas no esta asi que la añadi de ultima y seria el numero 16.
+En en el caso de 25 de dicimbre se usa el sol sostenido la cual en nuestras notas no esta asi que la añadi de ultima y seria el numero 16.
 
 Ahora en el void tocar melodia vamos ayadir todas las notas con tocarNota(Numero de nota,duracion de nota)
 
