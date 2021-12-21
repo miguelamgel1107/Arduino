@@ -15,7 +15,8 @@ lo que hace el codigo es que el circuito funciona igual pero con el cambio que s
 
 Aqui esta el codigo modificado.
 
-```const int greenLEDPin = 9;
+```c++
+const int greenLEDPin = 9;
 const int redLEDPin = 11;
 const int blueLEDPin = 10;
 const int redSensorPin = A0;
