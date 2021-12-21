@@ -211,3 +211,5 @@ Lo que hicimos fue mover el  checkButton(); y el if (play) de el void lood a el 
 
 
 En cuanto a el hardware aqui una imagen de como seria:
+
+![](https://github.com/miguelamgel1107/Arduino/blob/main/Archivos/IMG20211221125443.jpg)
