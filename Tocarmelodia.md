@@ -207,4 +207,7 @@ else{
 }
 }
 ```
-Lo que hicimos fue mover el  checkButton(); y el if (play) a el void tocarNota y la funcion que hacia tocar nota la metimos dentro del if (play) y asi solucionariamos el problema del kill switch
+Lo que hicimos fue mover el  checkButton(); y el if (play) de el void lood a el void tocarNota y la funcion que hacia tocar nota la metimos dentro del if (play) y asi solucionariamos el problema del kill switch.
+
+
+En cuanto a el hardware aqui una imagen de como seria:
