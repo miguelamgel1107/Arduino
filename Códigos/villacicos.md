@@ -62,7 +62,8 @@ else{
 
 25 diciembre
 
-```int switchStateKill = 0;
+```c++
+int switchStateKill = 0;
 bool isTheButtonBeingPressed = false;
 bool play = false;
 const int buttonPin=6;
