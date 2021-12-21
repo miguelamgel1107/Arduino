@@ -213,3 +213,45 @@ Lo que hicimos fue mover el  checkButton(); y el if (play) de el void lood a el 
 En cuanto a el hardware aqui una imagen de como seria:
 
 ![](https://github.com/miguelamgel1107/Arduino/blob/main/Archivos/IMG20211221125443.jpg)
+
+## Variacion de villancico
+
+En esta variacion lo que hicimos fues añadir un ruido de una nota random y sumarla a la frecuencia.
+
+Esto es lo que cambiamos del codigo:
+```c++ 
+void tocarNota(int numeroNota, float duracionNota){
+ checkButton();
+ if (play) {
+    int pin = pinAltavoz;
+  int duracionMilisegundos = duracionNegra * duracionNota;
+  
+  if (numeroNota == -1){
+    noTone(pin);
+    delay(duracionMilisegundos);
+    
+  }
+  else { 
+   
+  int frecuencia = freqs[numeroNota];
+  sonar(pin,frecuencia, duracionMilisegundos);
+
+  }
+ }
+
+}
+
+void sonar(int pin,int frecuencia, int duracionMilisegundos) {
+  
+  for (duracionMilisegundos; duracionMilisegundos > 0; duracionMilisegundos = duracionMilisegundos -50)
+  {
+  int ruido = map(random(2),0,9,-5,5);
+  tone(pin,frecuencia+ruido,duracionMilisegundos);
+  tone(pin,frecuencia+ruido,50);
+  delay(50);
+  }
+
+  
+}
+```
+Lo que hicimos fue añadir un void sonar y agragar una nota random y el tone del void tocarnota lo pasamos a Void sonar y a la frecuensia del tone le sumamos ruido que seria la notaa random y agregamos un delay de 50 y el delay de el void tocarNota lo quitamoesto hara que suene la melodia con distorcion.
