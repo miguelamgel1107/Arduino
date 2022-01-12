@@ -29,6 +29,8 @@ Me llamo Miguel Angel y en este repositorio esta todo lo que trabajemos con ardu
 
 * [Reloj De Arena Digital](https://github.com/miguelamgel1107/Arduino/blob/main/Reloj%20de%20Arena%20Digital.md)
 
+* [Bola De Cristal](https://github.com/miguelamgel1107/Arduino/blob/main/Bola%20de%20cristal.md)
+
 # Arduino
 
 ARDUINO IDE ( Entorno de desarrollo )
