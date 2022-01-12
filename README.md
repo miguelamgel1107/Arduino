@@ -15,7 +15,7 @@ Me llamo Miguel Angel y en este repositorio esta todo lo que trabajemos con ardu
 
 * [Operadores](https://github.com/miguelamgel1107/Arduino/blob/main/operadores.md)
 
-* [Lampara de varios colores](https://github.com/miguelamgel1107/Arduino/blob/main/lampara%20varios%20colores.md)
+* [Lampara De Varios Colores](https://github.com/miguelamgel1107/Arduino/blob/main/lampara%20varios%20colores.md)
 
 * [Circuitos Eléctricos](https://github.com/miguelamgel1107/Arduino/blob/main/circuitosel%C3%A9ctricos.md)
 
@@ -23,9 +23,11 @@ Me llamo Miguel Angel y en este repositorio esta todo lo que trabajemos con ardu
 
 * [Snippet](https://github.com/miguelamgel1107/Arduino/blob/main/snippet.md)
 
-* [Instrumento de teclado](https://github.com/miguelamgel1107/Arduino/blob/main/Instrumento%20de%20Teclado.md)
+* [Instrumento De Teclado](https://github.com/miguelamgel1107/Arduino/blob/main/Instrumento%20de%20Teclado.md)
 
 * [Tocar Melodia](https://github.com/miguelamgel1107/Arduino/blob/main/Tocarmelodia.md)
+
+* [Reloj De Arena Digital](https://github.com/miguelamgel1107/Arduino/blob/main/Reloj%20de%20Arena%20Digital.md)
 
 # Arduino
 
