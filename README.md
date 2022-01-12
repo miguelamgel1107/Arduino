@@ -23,6 +23,8 @@ Me llamo Miguel Angel y en este repositorio esta todo lo que trabajemos con ardu
 
 * [Snippet](https://github.com/miguelamgel1107/Arduino/blob/main/snippet.md)
 
+* [Instrumento de teclado](https://github.com/miguelamgel1107/Arduino/blob/main/Instrumento%20de%20Teclado.md)
+
 * [Tocar Melodia](https://github.com/miguelamgel1107/Arduino/blob/main/Tocarmelodia.md)
 
 # Arduino
