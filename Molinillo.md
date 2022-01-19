@@ -4,7 +4,7 @@
                                                           
 # Proyecto                                                        
                                                          
-En el dia de hoy he trabajado en el proyecto de arduino llamado molinillo motorizado con [Christian]() y [Miguel Ángel]() 
+En el dia de hoy he trabajado en el proyecto de arduino llamado molinillo motorizado con [Christian](https://github.com/Tabrih) y [David](https://github.com/DavidMenCam) 
   
 ## Resumen
 
