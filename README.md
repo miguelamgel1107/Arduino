@@ -31,6 +31,8 @@ Me llamo Miguel Angel y en este repositorio esta todo lo que trabajemos con ardu
 
 * [Bola De Cristal](https://github.com/miguelamgel1107/Arduino/blob/main/Bola%20de%20cristal.md)
 
+* [Joystick](https://github.com/miguelamgel1107/Arduino/blob/main/joystick.md)
+
 # Arduino
 
 ARDUINO IDE ( Entorno de desarrollo )
