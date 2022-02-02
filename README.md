@@ -33,6 +33,8 @@ Me llamo Miguel Angel y en este repositorio esta todo lo que trabajemos con ardu
 
 * [Joystick](https://github.com/miguelamgel1107/Arduino/blob/main/joystick.md)
 
+* [KY-015 Sensor](https://github.com/miguelamgel1107/Arduino/blob/main/KY-015%20sensor.md)
+
 # Arduino
 
 ARDUINO IDE ( Entorno de desarrollo )
