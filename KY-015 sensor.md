@@ -1,13 +1,18 @@
 # KY-015
-
-El dia de hoy eh hecho un trabajo junto con [David](https://github.com/DavidMenCam) , 
-primero de todo hemos entrado a una pagina de un objeto llamado ky.015 el cual es un sensor de temperatura y humedad.
-
-[Enlace a la pagina](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjVrKa0h-H1AhV1gf0HHTwRBMsQtwJ6BAgKEAM&url=https%3A%2F%2Fwww.fantasystudios.es%2Farduino%2Fpages%2FComponentes%2Fplacas%2Fsensores%2Fsensor_ky-015.html&usg=AOvVaw2E2767JwS57pTIBkLK0cCs)
-
-Ahora usamos partes del codigo que habia en la pagina para ver en el monitor serie la humedad y temperatura que detecta el sensor.
-
-Eh aqui el codigo usado.
+ 
+En el día de hoy he realizado junto a [David](https://github.com/DavidMenCam) el proyecto de Sensor de Humedad y Temperatura KY-015.
+ 
+ # Resumen
+ 
+ Este proyecto consiste en un sensor de temperatura y humedad que nos ayudará a identificar ambas.
+ 
+ Para ello, primeramente, necesitaremos entrar en esta [página](https://www.fantasystudios.es/arduino/pages/Componentes/placas/sensores/sensor_ky-015.html).
+ 
+ A continuación seguimos los pasos que nos indica esta misma y así lograremos indentificar la temperatura y humedad.
+ 
+ Antes de todo necesitaremos instalarnos la líbreria  "DHT12 sensor library by Renzo Mischianti", preferiblemente la versión 1.0.1
+ 
+He aqui el codigo usado.
 
 ```c++
 #include "DHT.h"
