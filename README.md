@@ -35,6 +35,8 @@ Me llamo Miguel Angel y en este repositorio esta todo lo que trabajemos con ardu
 
 * [KY-015 Sensor](https://github.com/miguelamgel1107/Arduino/blob/main/KY-015%20sensor.md)
 
+* [Lámpara Táctil](https://github.com/miguelamgel1107/Arduino/blob/main/l%C3%A1mpara%20t%C3%A1ctil.md)
+
 # Arduino
 
 ARDUINO IDE ( Entorno de desarrollo )
