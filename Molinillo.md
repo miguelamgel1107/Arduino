@@ -1,11 +1,9 @@
 
-                                                          19 de Enero de 2022
-                                                          
-                                                          
+                                                                                                                  
 # Proyecto                                                        
-                                                         
-En el dia de hoy he trabajado en el proyecto de arduino llamado molinillo motorizado con [Christian](https://github.com/Tabrih) y [David](https://github.com/DavidMenCam) 
-  
+
+En el dia de hoy he trabajado en el proyecto de arduino llamado molinillo motorizado con [David](https://github.com/DavidMenCam) y [Miguel Ángel](https://github.com/miguelamgel1107) .
+
 ## Resumen
 
 Este proyecto consiste en hacer girar un molinillo de colores con un motor. Para ello usaremos transistores, motores, un diodo, etc...
@@ -20,7 +18,7 @@ El motor conduce la energía al molinillo, el cual gracias a la energia que le p
 Aqui está el código del proyecto: 
 
 
-```
+```C++
 const int switchPin = 2;
 const int motorPin = 9;
 int switchState = 0;
@@ -38,7 +36,10 @@ void loop(){
   }
 }
 ```
+## Imágenes o Vídeos
 
+Aquí tenéis una imagen del proyecto:
 
+![](https://github.com/Tabrih/Arduino/blob/main/Archivos/IMG_20220119_101936.jpg)
 
-  
+[Y aquí tenéis el vídeo del mismo](https://raw.githubusercontent.com/Tabrih/Arduino/main/Archivos/VID_20220119_102053.mp4)
