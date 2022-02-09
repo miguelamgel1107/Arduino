@@ -1,7 +1,14 @@
 # Joystick
 
-El dia de hoy eh trabjado junto con [David](https://github.com/DavidMenCam), hoy nos dieron un peuqeño joystick que teniamos que conectar al arduino para ver si funcionaba en condiciones .
-con un codigo que revisa todas sus acciones en la herramienta de monitor serie. Eh aqui su codigo 
+En día de hoy he probado junto a [David](https://github.com/DavidMenCam) el funcionamiento de un Joystick.
+
+## Resumen
+
+No consiste en mucho, sin más para probar el funcionamiento del Joystick y hacer alguna variación si queremos.
+
+Cabe destacar un dato curioso. El Joystick está formado por dos potenciómetros y un botón.
+
+##Codigo
 
 ```c++
 
@@ -28,9 +35,9 @@ void loop() {
   delay(150);
 }
  ```
- y despues de eso hemos conectado 4 ñeds con la forma de joystick y hemos hecho que al mover el joystick hacia un lado brillara el led de ese lado y que cuando se pulsara el joystick todos los leds se encendieran.
+Y despues de eso hemos conectado 4 leds con la forma del joystick y hemos hecho que al mover el joystick hacia un lado brillara el led de ese lado y que cuando se pulsara el joystick todos los leds se encendieran.
  
- Eh aqui el codigo que hemos usado y un video de como funciona y como esta montado.
+He aqui el codigo que hemos usado y un video de como funciona y como esta montado.
  
  
  ```c++
