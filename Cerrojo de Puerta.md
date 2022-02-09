@@ -1,7 +1,7 @@
                                                         
 # Proyecto
 
-Hoy he realizado, junto a [Miguel Ángel](https://github.com/miguelamgel1107) y [David](https://github.com/DavidMenCam), el proyecto de Arduino Cerrojo de Puerta.
+Hoy he realizado, junto a [Chritian](https://github.com/Tabrih) y [David](https://github.com/DavidMenCam), el proyecto de Arduino Cerrojo de Puerta.
 
 ## Resumen
 
