@@ -37,6 +37,8 @@ Me llamo Miguel Angel y en este repositorio esta todo lo que trabajemos con ardu
 
 * [Lámpara Táctil](https://github.com/miguelamgel1107/Arduino/blob/main/l%C3%A1mpara%20t%C3%A1ctil.md)
 
+* [Zoótropo](https://github.com/miguelamgel1107/Arduino/blob/main/Zootropo.md)
+
 # Arduino
 
 ARDUINO IDE ( Entorno de desarrollo )
